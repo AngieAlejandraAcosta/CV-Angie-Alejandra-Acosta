@@ -1,4 +1,4 @@
-# Hola soy Angie-Alejandra-Acosta 👋
+# Hola soy Angie Alejandra Acosta 👋
 ## 🚀 Sobre Mí
 Administradora de Empresas, Investigadora Criminal, Tecnóloga en Gestión Integral en Fondos de Pensiones y Cesantías y Analista de Ciberseguridad.
 ---
