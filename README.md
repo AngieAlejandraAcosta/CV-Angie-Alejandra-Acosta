@@ -11,7 +11,7 @@
 
 ### 📊 Gestión Operativa & Corporativa
 * **Ofimática:** Microsoft Office (Excel avanzado, Word, PowerPoint)
-* **Procesos:** Control administrativo, validación y acreditación documental (Fondos de Pensiones y Cesantías).
+* **Procesos:** Control administrativo, validación y acreditación documental.
 * **Documentación:** Elaboración de informes ejecutivos, manuales y gestión de respuestas (PQR).
 
 ### 🔍 Investigación
