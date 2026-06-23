@@ -20,5 +20,5 @@
 ---
 *  **Idiomas:** Español (Nativo), Inglés (A1)
 ---
-*  ## 📫Contacto.
+ ## 📫Contacto.
 *  * 💼 [Angie Alejandra Acosta Torres](https://www.linkedin.com/in/angie-alejandra-acosta-torres/)
