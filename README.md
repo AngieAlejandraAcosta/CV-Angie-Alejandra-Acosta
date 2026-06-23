@@ -23,5 +23,5 @@
   ### **[Aprendiz SENA ]** | [Porvenir]
   ### **[Formalizador]** | [Ministerio de Relaciones Exteriores - Thomas Greg Sons]
   *  ---
-*  ## 📫Contacto
+*  ## 📫Contacto.
 *  * 💼 [Angie Alejandra Acosta Torres](https://www.linkedin.com/in/angie-alejandra-acosta-torres/)
