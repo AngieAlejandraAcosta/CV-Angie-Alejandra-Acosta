@@ -16,7 +16,7 @@
 
 ### 🔍 Investigación
 
-* **Técnicas:** Métodos de investigación criminal, realización de entrevistas y auditorías.
+* **Técnicas:**  Métodos de investigación criminal, realización de entrevistas y auditorías.
   ---
 *  **Idiomas:** Español (Nativo), Inglés (A1)
 ---
