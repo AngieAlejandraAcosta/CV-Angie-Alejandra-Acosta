@@ -1,7 +1,7 @@
 # Hola soy Angie Alejandra Acosta 👋
 ## Administradora de Empresas |  Gestión administrativa |Análisis de  Información| Gestión de PQRS| Atención al cliente| Investigación Criminal |Analista de Ciberseguridad.
 ---
-## Analista en Ciberseguridad con formación multidisciplinaria en administración de empresas, investigación criminal y gestión en fondo de pensiones y cesantias, Con experiencia en análisis de información, validación de datos, gestión de procesos y atención al usuario. Con conocimientos en Wireshark, Kali Linux, Draw.io y Microsoft Office, enfocados en la seguridad, la investigación y la mejora continua de procesos.
+## Administradora de empresas con formación multidisciplinaria como Analista en Ciberseguridad, investigación criminal y gestión en fondo de pensiones y cesantias, Con experiencia en análisis de información, validación de datos, gestión de procesos y atención al usuario. Con conocimientos en Wireshark, Kali Linux, Draw.io y Microsoft Office, enfocados en la seguridad, la investigación y la mejora continua de procesos.
 ---
 # Mis habilidades
 ### 🔐 Ciberseguridad
