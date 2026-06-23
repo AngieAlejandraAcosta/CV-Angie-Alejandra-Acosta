@@ -3,7 +3,7 @@
 Administradora de Empresas, Investigadora Criminal, Tecnóloga en Gestión Integral en Fondos de Pensiones y Cesantías y Analista de Ciberseguridad.
 ---
 # Mis habilidades
-### 🔐 Ciberseguridad & Análisis
+### 🔐 Ciberseguridad
 * **Sistemas Operativos:** Kali Linux
 * **Análisis de Redes:** Wireshark
 * **Modelado y Diagramas:** Draw.io
@@ -14,8 +14,8 @@ Administradora de Empresas, Investigadora Criminal, Tecnóloga en Gestión Integ
 * **Procesos:** Control administrativo, validación y acreditación documental (Fondos de Pensiones y Cesantías).
 * **Documentación:** Elaboración de informes ejecutivos, manuales y gestión de respuestas (PQR).
 
-### 🔍 Investigación y Cumplimiento
-* **Técnicas:** Métodos de investigación criminal, realización de entrevistas y auditoría interna de procesos.a
+### 🔍 Investigación
+* **Técnicas:** Métodos de investigación criminal, realización de entrevistas y auditorías.
 *  **Idiomas:** Español (Nativo), Inglés (A1)
 ---
   # Experiencia Profesional
