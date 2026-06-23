@@ -15,6 +15,7 @@
 * **Documentación:** Elaboración de informes ejecutivos, manuales y gestión de respuestas (PQR).
 
 ### 🔍 Investigación
+
 * **Técnicas:** Métodos de investigación criminal, realización de entrevistas y auditorías.
   ---
 *  **Idiomas:** Español (Nativo), Inglés (A1)
