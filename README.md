@@ -18,10 +18,5 @@
 * **Técnicas:** Métodos de investigación criminal, realización de entrevistas y auditorías.
 *  **Idiomas:** Español (Nativo), Inglés (A1)
 ---
-  # Experiencia Profesional
-  ### **[Auxiliar  Administrativo II]** | [Porvenir]
-  ### **[Aprendiz SENA ]** | [Porvenir]
-  ### **[Formalizador]** | [Ministerio de Relaciones Exteriores - Thomas Greg Sons]
-  *  ---
 *  ## 📫Contacto.
 *  * 💼 [Angie Alejandra Acosta Torres](https://www.linkedin.com/in/angie-alejandra-acosta-torres/)
