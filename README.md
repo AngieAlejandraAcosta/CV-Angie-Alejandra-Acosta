@@ -8,7 +8,7 @@
 * **Sistemas Operativos:** Kali Linux, windows
 * **Herraminetas:** Wireshark, Draw.io,Stack Elastic (SIEM), Kibana, Winlogbeat
 * **Competencias:** Análisis de información, detección de anomalías y seguridad de datos.
----
+
 ### 📊 Gestión Operativa & Corporativa
 * **Ofimática:** Microsoft Office (Excel avanzado, Word, PowerPoint)
 * **Procesos:** Control administrativo, validación y acreditación documental (Fondos de Pensiones y Cesantías).
